@@ -1,21 +1,12 @@
-# Hi there,😊 I'm Emiliya Zhukovich
+# Portfolio - 21 School (Sberbank Intensive)
 
-⚡ **Desired Position**: Backend Developer & Systems Analyst
+Welcome to my **Portfolio** repository, showcasing my projects and work completed during the **21 School Sberbank Intensive**. This repository includes a variety of tasks and assignments that I have worked on, demonstrating my skills in backend development, problem-solving, and system design.
 
-🐾 I'm passionate about backend development and systems analysis because these fields allow me to create efficient, scalable systems that power applications and optimize business processes. I enjoy the challenge of designing robust architectures, solving complex technical problems, and ensuring seamless integration between technology and business operations.
+### 🚀 **Technologies Used:**
+- **Programming Language**: C
 
-💬 **Skills**:
-- **Backend Development**: Python, Django, Flask, RESTful APIs, SQL
-- **System Analysis**: Requirements gathering, process modeling, UML, business process analysis, solution design
-- **Programming Languages**: Python, C, C++, HTML, CSS
-- **Databases**: SQL, PostgreSQL, MySQL, NoSQL
-- **Tools**: Git, Docker, Kubernetes, Jenkins, JIRA
-- **Additional**: Problem-solving, critical thinking, communication skills, English proficiency
+### 💬 **Why This Repository?**
+The projects here reflect my learning journey, starting from fundamental programming concepts to more complex tasks. I’ve gained hands-on experience in real-world scenarios, working on tasks that challenged my technical and analytical skills.
 
-🌱 **Personal Strengths**:
-- Highly **communicative** and a strong team player, always eager to collaborate and share ideas.
-- I excel at **understanding other people's code** quickly, regardless of the programming language, which allows me to efficiently contribute to any project.
-- I am **fast to learn** and adapt to new technologies and challenges, which helps me quickly tackle diverse tasks and find optimal solutions.
-
-I’m excited to apply my technical and analytical skills to build scalable backend solutions, optimize business processes, and make meaningful contributions to any team. Always eager to learn, I'm looking forward to continuing my journey in the world of backend development and systems analysis.
+Feel free to explore and reach out if you have any questions or would like to discuss any of the projects in more detail!
 
