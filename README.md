@@ -1,4 +1,3 @@
-# Portfolio
 # Hi there,😊 I'm Emiliya Zhukovich
 
 ⚡ **Desired Position**: Backend Developer & Systems Analyst
